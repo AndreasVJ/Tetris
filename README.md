@@ -1,3 +1,3 @@
-# Simple Tetris version made with python
+# Simple Tetris clone made with python and pygame
 
 ![image info](./images/gameplay.png)
